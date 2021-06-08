@@ -1,0 +1,16 @@
+{
+	"name": "qrgen",
+	"version": "0.1.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"dev": "nodemon"
+	},
+	"devDependencies": {
+		"@types/jest": "^26.0.23",
+		"jest": "^27.0.4",
+		"nodemon": "^2.0.7",
+		"ts-node": "^10.0.0",
+		"typescript": "^4.3.2"
+	}
+}
